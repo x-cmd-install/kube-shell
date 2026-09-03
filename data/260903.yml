@@ -1,11 +1,13 @@
 about:
-  description: Kubernetes shell: An integrated shell for working with the Kubernetes
+  description:
+  |
+    Kubernetes shell: An integrated shell for working with the Kubernetes
   license: Apache-2.0
   homepage: 
   head: adc801d
   archived: false
   latestVersion: v0.0.21
-  collectedAt: 2026-09-03T05:12:10Z
+  collectedAt: 2026-09-03T22:37:53Z
 timeline:
   created: 2017-06-15
   lastCommit: 2018-09-19
@@ -21,7 +23,7 @@ popularity:
 language:
   Python: 31586
   Go: 2310
-totalLine: 33896
+totalBytes: 33896
 recent:
   last30d:
     since: 2026-08-04
