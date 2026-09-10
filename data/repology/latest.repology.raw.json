@@ -1,0 +1,1 @@
+[{"repo":"aur","srcname":"kube-shell","binname":"kube-shell","visiblename":"kube-shell","version":"0.0.21","origversion":"0.0.21-2","status":"unique","summary":"An integrated shell for working with the Kubernetes CLI","maintainers":["ianberinger@aur"],"licenses":["Apache"]}]
