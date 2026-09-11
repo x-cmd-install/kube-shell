@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.0.21"
   latestRelease: "v0.0.21"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:10:25Z
+  collectedAt: 2026-09-11T18:35:18Z
 timeline:
   created: 2017-06-15
   lastCommit: 2018-09-19
@@ -84,7 +84,7 @@ total:
   commit: 76
 ---
 path: /home/runner/.x-repo/github.com/cloudnativelabs/kube-shell
-collectedAt: 2026-09-11T06:10:26Z
+collectedAt: 2026-09-11T18:35:18Z
 loc:
   Json:
     code: 4012
